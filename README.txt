@@ -1,6 +1,3 @@
-APM Electrical Services website - optimised image version v29
+APM Electrical Services website - responsive version v34
 
-Open index.html to view the website.
-Keep the images folder beside index.html when uploading the website.
-
-Photos are stored as separate compressed WebP files rather than embedded in the HTML. This keeps future photo additions much lighter and easier to manage deployment update
+Based on v33. Header and page width refined to prevent horizontal scrolling and improve navigation fit across desktop, tablet and mobile.
